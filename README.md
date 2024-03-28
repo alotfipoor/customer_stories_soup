@@ -1,6 +1,24 @@
-# Web Scrapers
+# BI tools Data Collection
 
-This repository contains a collection of web scrapers for various websites. Each scraper is a standalone Python script that uses Selenium for browser automation and BeautifulSoup for parsing HTML.
+This project is for scraping customer stories from BI platforms website.
+
+Here is the list of the BI platforms:
+- [Power BI](https://customers.microsoft.com/en-us/search?sq=power%20bi&ff=story_product_categories%26%3EPower%20BI&p=0&so=story_publish_date%20desc) ✅
+- [Dash](https://plotly.com/user-stories/) ✅
+- [Tableau](https://www.tableau.com/en-gb/solutions/customers) ✅
+- [KNIME](https://www.knime.com/customers) ✅
+- [QuickSight](https://aws.amazon.com/quicksight/customers/) ✅
+- [Looker](https://cloud.google.com/customers#/products=Data_Analytics) ✅
+- [Board](https://www.board.com/en/customers)
+- [SAP](https://www.sap.com/uk/products/technology-platform/customer-stories.html)
+- [Metabase](https://www.metabase.com/case_studies)
+
+## Table of Contents
+
+- [Structure](#Structure)
+- [Usage](#usage)
+- [Requirements](#Requirements)
+- [License](#license)
 
 ## Structure
 
@@ -31,3 +49,6 @@ pip install -r requirements.txt
 ```
 
 You will also need to download the appropriate WebDriver for your browser and add it to your system's PATH.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
