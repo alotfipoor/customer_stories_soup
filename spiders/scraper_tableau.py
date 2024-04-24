@@ -65,6 +65,7 @@ def extract_and_print_data(driver, link):
 
     content_elements = driver.find_elements(By.CSS_SELECTOR,'article > div > p')
     content = ' '.join([element.text for element in content_elements])
+    content = content
     data['content'] = content
     
     return data
@@ -87,7 +88,7 @@ def get_story_links(driver):
         return []
 
 # Pagination
-for page_index in range(1, 100):  # Start from page 1
+for page_index in range(1, 2):  # Start from page 1
     page_url = f"{base_url}?page={page_index}"
     driver.get(page_url)
 
@@ -103,7 +104,7 @@ for page_index in range(1, 100):  # Start from page 1
         data = extract_and_print_data(driver, link)
         all_data.append(data)
 
-with open('customer_stories_tableau.json', 'w') as outfile:
-    json.dump(all_data, outfile, indent=4)
+with open('customer_stories_tableau00000.json', 'w', encoding='utf8') as outfile:
+    json.dump(all_data, outfile, indent=4, ensure_ascii=False)
 
 driver.quit()

@@ -9,9 +9,9 @@ Here is the list of the BI platforms:
 - [KNIME](https://www.knime.com/customers) ✅
 - [QuickSight](https://aws.amazon.com/quicksight/customers/) ✅
 - [Looker](https://cloud.google.com/customers#/products=Data_Analytics) ✅
-- [Board](https://www.board.com/en/customers)
-- [SAP](https://www.sap.com/uk/products/technology-platform/customer-stories.html)
-- [Metabase](https://www.metabase.com/case_studies)
+- [Board](https://www.board.com/en/customers) ✅
+- [Metabase](https://www.metabase.com/case_studies) ❌
+
 
 ## Table of Contents
 

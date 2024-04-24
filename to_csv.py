@@ -23,6 +23,6 @@ for filename in os.listdir(json_dir):
 # Create the DataFrame in one step
 df = pd.DataFrame(all_data) 
 # Rearrange the columns
-df = df[['toolName', 'title', 'url', 'content']]
+df = df[['toolName', 'company', 'title', 'url', 'content']]
 
 df.to_csv('customer_stories/results/customer_stories_all.csv', index=True)
