@@ -5,12 +5,12 @@ This project is for scraping customer stories from BI platforms website.
 Here is the list of the BI platforms:
 - [Power BI](https://customers.microsoft.com/en-us/search?sq=power%20bi&ff=story_product_categories%26%3EPower%20BI&p=0&so=story_publish_date%20desc) ✅
 - [Dash](https://plotly.com/user-stories/) ✅
+- [Qlik](https://www.qlik.com/us/resource-library?page=1&limit=9&resourceType=Customer%20Story) ✅
 - [Tableau](https://www.tableau.com/en-gb/solutions/customers) ✅
 - [KNIME](https://www.knime.com/customers) ✅
-- [QuickSight](https://aws.amazon.com/quicksight/customers/) ✅
 - [Looker](https://cloud.google.com/customers#/products=Data_Analytics) ✅
 - [Board](https://www.board.com/en/customers) ✅
-- [Metabase](https://www.metabase.com/case_studies) ❌
+- [Insight](https://insightsoftware.com/customer-stories/) ✅
 
 
 ## Table of Contents

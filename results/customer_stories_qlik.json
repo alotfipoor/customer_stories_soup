@@ -1,0 +1,1157 @@
+[
+    {
+        "id": "qlik_1",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/ineos-inovyn",
+        "title": "Ineos Inovyn Revolutionizing Finance Reporting: A Transformation Journey for Fixed Costs | Qlik Customer Story",
+        "company": "Ineos inovyn",
+        "content": " Ineos Inovyn\u2019s transformation journey for fixed costs. Inovyn had over 700 million fixed costs in its SAP systems that were manually managed. Previously, each month each local controller had to manually extract fixed costs from SAP into Excel and prepare submission files for reporting. Each country also had their own SQL or Access databases.  Forecasting was executed in Excel but involved copying and pasting of data to prepare submissions for around 50 legal entities. Having actual and forecast data gathered in the same report was also a cumbersome and complex process that could only be performed by very few staff. The solution, implemented with support from Agilos as a strategic partner, consists of a change data capture replication process for SAP ERP systems into a cloud data platform. The platform is designed to have a Raw Data Landing Zone and a Data Warehouse Zone, handled by Qlik Replicate and Qlik Compose respectively. The use of pre-built SAP accelerators (Order-to-Cash, Financial Analytics and Inventory Management) allows a fast development phase and rapid delivery of first results, consisting of dashboards for the monthly financial closing process.\n  Inovyn now has a more efficient and faster closing process, freeing up time for real analysis. Time savings are equivalent to 3.5 full-time staff each year, while the data refresh cycle has also been drastically cut from two hours to around every 15 minutes. Manual work for controllers and local CFOs has been reduced, and they can now focus on more valuable tasks. Importantly, the business now has a platform that meets its current and future reporting needs in terms of fixed costs, capex, inventory, customer tracking and sales analysis.\n The collaboration between Inovyn and Agilos shows how the implementation of Qlik Data Integration, Snowflake, Smartsheet and Qlik Sense can pave the way to create streamlined, automated and efficient reporting systems that deliver enhanced analytical capabilities and valuable time savings."
+    },
+    {
+        "id": "qlik_2",
+        "url": "https://www.qlik.com/us/resource-library/van-oord-2024-global-impact-award",
+        "title": "Van Oord: 2024 Global Impact Award | Qlik Video",
+        "company": "Van oord 2024 global impact award",
+        "content": "   Van Oord\u2019s Climate Risk Overview is a cutting-edge Qlik tool that combines scientific data from scores of publicly available sources to systematically analyze geo-data in 10-kilometer segments along global coastlines.\n\nBy consolidating key factors like populations, low-lying land and projected sea level rise, it anticipates flood hazards worldwide, highlighting not only major cities but also smaller regions where coral and mangroves can be used to provide natural flood protection."
+    },
+    {
+        "id": "qlik_3",
+        "url": "https://www.qlik.com/us/resource-library/carvajal-2024-global-transformation-awards",
+        "title": "Carvajal: 2024 Global Transformation Awards - AI Innovation Award | Qlik Video",
+        "company": "Carvajal 2024 global transformation awards",
+        "content": "   Carvajal Group was founded in Colombia 120 years ago. It operates in ten countries across Latin America and the USA and works in three main sectors \u2013 paper and packaging production, technology and services and real estate.  One of its solutions, Cen Colaboraci\u00f3n, uses Qlik Cloud Analytics\u2019 AI functionality to connect sales, inventory, product return and purchase order information. "
+    },
+    {
+        "id": "qlik_4",
+        "url": "https://www.qlik.com/us/resource-library/ingersoll-rand-2024-global-transformation-award-winner",
+        "title": "Ingersoll Rand: 2024 Global Transformation Award Winner - Governance Expertise Award | Qlik Video",
+        "company": "Ingersoll rand 2024 global transformation award winner",
+        "content": "   Ingersoll Rand\u2019s industrial products are designed for making life better \u2013 from ensuring production lines run effectively to helping construction projects stay on track and other mission-critical flow technologies.  Using Qlik analytics and data integration, Ingersoll Rand has slashed the number of reports it produces, saving thousands of hours of analytics time. Ingersoll Rand has also standardized the way teams across the business analyze data which can now be delivered in near real time. "
+    },
+    {
+        "id": "qlik_5",
+        "url": "https://www.qlik.com/us/resource-library/fujitsu-2024-global-transformation-award",
+        "title": "Fujitsu: 2024 Global Transformation Award - Data Mastery Award | Qlik Video",
+        "company": "Fujitsu 2024 global transformation award",
+        "content": "  Fujitsu, the global technology and business solutions provider, has established a data analytics center to lead data-driven management and promote increased data utilization as part of its digital transformation journey.  With Qlik Cloud Data Integration, Fujitsu will seamlessly connect with cloud solutions, such as SAP used in Fujitsu to analyze data in real time and improve operational efficiency. "
+    },
+    {
+        "id": "qlik_6",
+        "url": "https://www.qlik.com/us/resource-library/avon-institute-and-the-brazilian-senate-2024-global-impact-award",
+        "title": "Avon Institute and The Brazilian Senate: 2024 Global Impact Award | Qlik Video",
+        "company": "Avon institute and the brazilian senate 2024 global impact award",
+        "content": "  Thirty percent of women in Brazil recognize they have suffered domestic violence and 60 percent do not report the aggression they\u2019ve endured to the police. Now, for the first time, these shocking figures have been highlighted in a new Qlik-based tool that brings together official public data on health, justice, public safety and the largest and longest-running national survey on gender-based violence in the country."
+    },
+    {
+        "id": "qlik_7",
+        "url": "https://www.qlik.com/us/resource-library/hilton-2024-global-transformation-awards",
+        "title": "Hilton: 2024 Global Transformation Awards - Integration Excellence Award | Qlik Video",
+        "company": "Hilton 2024 global transformation awards",
+        "content": "  Hilton Worldwide\u2019s portfolio includes 23 world-class brands comprising more than 7,600 properties with more than 1.2 million rooms in 126 countries and territories. Using Talend Data Fabric and Talend Data Quality and Governance, the company has created more than 170 distinct solutions to tackle data integration challenges."
+    },
+    {
+        "id": "qlik_8",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/antalis",
+        "title": "Antalis Develops User Autonomy with Qlik Cloud Analytics | Qlik Customer Story",
+        "company": "Antalis",
+        "content": " Antalis modernizes its data platform and refines its digital business analytics with Qlik Cloud. Antalis is the leading B2B distributor of paper, packaging solutions and visual communication products in Europe and Latin America, with 4,000 employees in more than 30 countries, serving more than 100,000 customers.\n Antalis was a longstanding QlikView customer, and recently decided to modernize its solution to be more responsive to business demands. \u201cUsers could only access the applications specific to their region. We had to find a less siloed approach to allow for a more collaborative and inclusive model,\u201d explains Fabien Pr\u00e9hel, Director of CRM, Marketing Solutions & Data Analytics for the Antalis group. Qlik Cloud\u00ae Analytics was the chosen solution thanks to its powerful associative engine, processing speed and self-service BI capacities. \u201cWith our new hybrid SaaS and on-premises Qlik Sense infrastructure, we retain the flexibility of regional development while also allowing all users access to a single hub where all applications are available.\u201d explains Fabien Pr\u00e9hel.\n The group has also strengthened the analysis of its e-commerce business, supported by 30 websites worldwide. Several dedicated applications enable precise analysis of the KPIs, from ERP transactional data to web data which can be used to optimize traffic generation and the conversion of visitors to new customers.\n More than 200 Qlik applications have been migrated to the cloud for 1,250 users (soon to be 2,500 users).\n Qlik Cloud Analytics enhances user autonomy and collaboration, offers a consolidated view across countries, and enables sophisticated analysis of ecommerce activities. \n The power and simplicity of the cloud are what appeal from a technical perspective: \u201cWe no longer need to worry about adjusting the performance of our servers,\u201d says Fabien Pr\u00e9hel.\n With the simplicity of Qlik Cloud, you can deploy self-service BI and empower your business users. IT can focus on delivering qualitative, reliable data, while the business units develop or adapt the dashboards to their needs.\n Antalis said : \u201cWe have increased our capacity to create new reports tenfold and cut our production times by a factor of 10.\u201d"
+    },
+    {
+        "id": "qlik_9",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/reworld",
+        "title": "Talend \u2018Connective Tissue\u2019 Powers Sustainability Specialist | Qlik Customer Story",
+        "company": "Reworld",
+        "content": " Reworld optimizes costs, operations, customer acquisition and revenue growth to ensure a data-driven future. Behind Reworld\u2019s commitment to sustainability is an efficient and well-managed business. To meet growing stakeholder expectations, it needs the best possible understanding of its operations and how to optimize them. \r To achieve this, Reworld saw that it needed to rethink its data strategy. However, having achieved significant growth through acquisitions over its 40-year history, it struggled with multiple different reports and spreadsheets, and a miscellany of data sources from over 90 facilities. Achieving confidence in decisions was a struggle.\r Reworld needed a data integration solution that wasn\u2019t dependent on specific systems but would enable it to create mappings between multiple systems and sources. Talend Data Fabric became the \u201cconnective tissue\u201d that built the Reworld Data Hub, a centralized source that brought together data from hundreds of scattered SQL Server and Oracle databases.\r Reworld quickly saw how Talend gave the business credible data to allow quicker, more confident decisions. Importantly, it also provided a foundation for the growing use of artificial intelligence (AI) across the organization.\r  The transformation enabled by Talend and the Reworld Data Hub goes beyond accurate and timely reporting: it\u2019s allowing Reworld to proactively identify, manage and mitigate critical threats. The Data Hub is also helping Reworld to optimize costs, redirect investments, and grow customer acquisitions, as well as providing an important foundation for the rising use of artificial intelligence. The company can explore new markets more quickly and respond to customers faster and with better solutions that better meet their sustainability objectives. Reworld is an excellent example of a business that overcame what it describes as a \u201chodgepodge\u201d of data systems and sources and developed a new Data Hub on which to build a comprehensive strategy based on data and, increasingly, AI.\r It\u2019s a move that\u2019s paying off financially, and also helping Reworld and other organizations to hit key sustainability targets that will benefit generations to come.\r With data available in the right place at the right time, profitability and sustainability don\u2019t have to be mutually exclusive. The solution is ready and waiting."
+    },
+    {
+        "id": "qlik_10",
+        "url": "https://www.qlik.com/us/resource-library/henderson-group-transforms-to-agile-business-operations",
+        "title": "",
+        "company": "Henderson group transforms to agile business operations",
+        "content": ""
+    },
+    {
+        "id": "qlik_11",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/edeka",
+        "title": "EDEKA Creates Transparency Across the Supply Chain with Qlik | Qlik Customer Story",
+        "company": "Edeka",
+        "content": " German supermarket implements Qlik applications to deliver data to hundreds of employees. German supermarket chain EDEKA does its utmost to ensure that its products are as fresh as possible when they reach the shelves of its 3,200 supermarkets. Key to achieving this are three regional distribution companies, which use different IT systems to control the supply chain.\n To create more transparency throughout the process, EDEKA needed to pool data from various systems into one central point, where it could be integrated and analyzed at different levels of detail. The solution also needed to be easy to use as part of a self-service process.\n Qlik impressed with its high-performance in-memory technology, graphical visualization functions and high level of user friendliness. The right implementation partner for the project was also found in Bison Deutschland.\n After an initial three-day proof of concept, the trade and logistics specialists at Bison presented the first key figures and reports in tabular and graphical form. The decision to engage in a joint project was a done deal.\n Qlik Sense was installed and the first reports were migrated, with only occasional support required from Bison. Whether for goods receipt, stock put-away, picking, goods issues or transportation, Qlik now provides hundreds of users at EDEKA with fully transparent insight into the entire supply chain based on the latest data. Qlik also provides product turnover rates, transportation times within warehouses and the number of completed inbound deliveries.\n The customer service team can also give customers accurate information about routes and whether items are available for delivery \u2013 information that is particularly important during promotional campaigns.\n For any supermarket, examining data quickly and easily from different perspectives \u2013 such as individual warehouse locations, customers or orders \u2013 allows detailed analysis and quick, targeted responses.\n Evaluating ERP data also provides easy answers to complex questions, such sales volumes for a particular customer over a specific period, broken down by product group and warehouse location.\n With Qlik, the ability to use key insights to improve day-to-day operations can often be a critical differentiator in a competitive, high-volume retail environment."
+    },
+    {
+        "id": "qlik_12",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/lekkerland",
+        "title": "Lekkerland Case Study | Qlik",
+        "company": "Lekkerland",
+        "content": " Qlik Gold Client facilitates the targeted, effortless transfer of test data. Lekkerland has been the food-to-go specialist for over 60 years. The company serves 41,800 points of sale and has around 3,700 employees in Germany alone.  The company attaches great importance to providing customers with customized solutions. Working with data and extensive data generation and analysis are crucial in this context, both for internal processes and when advising customers. The company therefore needed a solution that would afford it greater agility in the further development of its system. Lekkerland\u2019s test systems require consistent, up-to-date production data for quality assurance purposes and to test improvements or new developments. Carrying out quality assurance was itself a time-consuming and expensive process, which involved extracting data from the production system and then restoring it on the test system via a backup using the same data.\n Qlik Gold Client\u00ae enables the precise selection and effortless transfer of data. This allows the team to work with accurate data during the early development stages, ensuring that team members gain greater knowledge and can respond more flexibly to innovations. This solution improves the availability, security and quality of data and increases development productivity. At the same time, the accelerated production process reduces costs. \n Qlik Gold Client is able to identify correlations within data sets using the document flow and to copy and read individual adjustments, resulting in higher quality software products. Solution consultants can work independently with Gold Client, meaning that work can be organized in a more decentralized and modular fashion.\n\n At Lekkerland, the use of Qlik Gold Client allows SAP test data to be managed more efficiently, cost-effectively and safely. The resource-intensive test environment has been reduced. The fast and flexible handling shortens software production time while also improving quality, thanks to the ability to generate individualized data sets and process complex data. This enables the company to provide a rapid, high-quality response to individual customer requirements."
+    },
+    {
+        "id": "qlik_13",
+        "url": "https://www.qlik.com/us/resource-library/lekkerland-fastens-test-data-transfer-with-qlik-gold-client",
+        "title": "",
+        "company": "Lekkerland fastens test data transfer with qlik gold client",
+        "content": ""
+    },
+    {
+        "id": "qlik_14",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/village-roadshow-group",
+        "title": "Empowering Village Roadshow Group to Generate Valuable Insights from Its Abundance of Data | Qlik Customer Story",
+        "company": "Village roadshow group",
+        "content": " Australian entertainment leader builds scalability and flexibility with self-service tools. As Australia\u2019s largest theme park operator and a major film distribution and cinema operator, understanding and anticipating customer needs is vital for VRG.\n Factoring in consumer behavior patterns across diverse offerings and locations\u2014and then matching planning to meet demand\u2014requires a sophisticated data strategy.\n The company had decades\u2019 worth of data, but its reporting processes were static, labor-intensive and inefficient. Parameters had to be defined weeks in advance, with an analyst then spending weeks gathering data and creating reports. VRG needed the scalability and flexibility of making data available with a single tool and to do that it needed self-service analytics. It was also interested in data democratization; even though it could extract the data it was still in the hands of a few, not available throughout its teams.\n So, with a clear vision for what it wanted, VRG selected Qlik as its data visualization partner. Qlik\u2019s data analytics solution includes a complete set of open application programming interfaces, enabling users to fully control and customize its solutions. VRG now has access to self-service capabilities, with readily accessible interactive data dashboards for visualizations that can draw on the company\u2019s historical and real-time data from 50+ internal and external data sources, including customer surveys.\n Qlik is also supporting VRG to continuously evolve its approach to data technology and analytics. The journey from diagnostic to descriptive analytics is now maturing into predictive analytics. It also enables the growth scale and competitive advantage that VRG wants\u2014how and when VRG wants it.\n Since onboarding Qlik Sense, VRG is firing at another level, with teams experiencing exponential growth in their ability to connect and generate value from data. The Film Distribution business has used it to examine how well previous titles have done and used those insights to inform future titles.\n Meanwhile, it allows the Theme Parks division greater insight into quantitative and qualitative customer behavior\u2014from what kinds of customers favor which venues to when they\u2019re most likely to visit to what kind of tickets they prefer.\n "
+    },
+    {
+        "id": "qlik_15",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/ather-energy",
+        "title": "Ather Energy Harnesses the Power of Data | Qlik Customer Story",
+        "company": "Ather energy",
+        "content": " Electric scooter business accesses meaningful analysis to enable greater experiences. Bengaluru-based Ather Energy is India\u2019s third-largest manufacturer of electric scooters, with two dedicated manufacturing plants and the country\u2019s largest fast-charging network. A key challenge is making sense of high volumes of customer and product data, sourced from vehicles in operation, its charging grid and other business lines. The business also looks to data and high-value analytics to generate meaningful insights that inform decisions. It recognized that teams needed access to an analytics tool that was intelligent, integrated and insightful. With Qlik and India-based Qlik Partner Diagonal Consulting, Ather Energy began a transformative journey in data analysis.\n Various data-collection touchpoints \u2013 which can reach millisecond-levels of granularity \u2013 allow Ather Energy to take a deep-dive view of complex supply-chain issues and customer behavior. Together with Diagonal, this process is simplified with Qlik\u2019s customized dashboards and advanced capabilities. Led by Diagonal, Ather Energy was able to optimize its reporting processes with Qlik NPrinting and ensure database connections were secure and accessible with Qlik Data Gateway. Qlik\u2019s ability to generate near-real-time reports has delivered a significant time-saving benefit for Ather Energy, replacing a practice that took weeks to complete. Qlik\u2019s intuitive interface means staff can hit the ground running and monthly usage numbers have reached around 30,000 sessions.\n Staff also have immediate insights into sales, inventory and stock levels of spare parts and accessories. Teams can project sales efficiently and discussions that once took place weekly are now daily events that determine plans and inform decisions.\n Having a single platform to analyze and integrate data has allowed Ather Energy to extend the benefits to multiple areas of its operations, including customers, vehicles, retailers, charging processes and the grid network.\n Ather Energy is using the transparency offered by Qlik to further its quest for innovation, with feature expansions enabling the business to deepen its understanding of data and the meaningful insights it delivers. Qlik is now set to play a vital role in driving growth for Ather Energy, both in India and internationally.\n "
+    },
+    {
+        "id": "qlik_16",
+        "url": "https://www.qlik.com/us/resource-library/carvajal-adopts-qlik-sense-to-drive-growth-in-user-numbers",
+        "title": "",
+        "company": "Carvajal adopts qlik sense to drive growth in user numbers",
+        "content": ""
+    },
+    {
+        "id": "qlik_17",
+        "url": "https://www.qlik.com/us/resource-library/qlik-creates-transparency-into-logistics-processes-at-edeka",
+        "title": "",
+        "company": "Qlik creates transparency into logistics processes at edeka",
+        "content": ""
+    },
+    {
+        "id": "qlik_18",
+        "url": "https://www.qlik.com/us/resource-library/openreach-reduces-time-to-insight-with-qlik",
+        "title": "",
+        "company": "Openreach reduces time to insight with qlik",
+        "content": ""
+    },
+    {
+        "id": "qlik_19",
+        "url": "https://www.qlik.com/us/resource-library/urban-sports-club-boosts-efficiency-and-saves-time",
+        "title": "",
+        "company": "Urban sports club boosts efficiency and saves time",
+        "content": ""
+    },
+    {
+        "id": "qlik_20",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/bnl-bnp-paribas",
+        "title": "BNL BNP Paribas Case Study | Qlik",
+        "company": "Bnl bnp paribas",
+        "content": " Italian bank transforms its environment to develop a new approach to data management and consumption. BNL BNP Paribas is one of Italy\u2019s most well-known financial institutions and part of European banking leader BNP Paribas Group since 2006.\n Delivering services with the speed and agility that BNL BNP Paribas needed involved relaying data from its core mainframe banking system to the systems handling its digital applications. BNL BNP Paribas deployed streaming solutions to ensure that digital data was always available to customers but needed a stable and reliable way to manage those high volumes quickly without consuming valuable mainframe resources. The bank approached Italian technology consultancy Quantyca. At the heart of its proposed solution was Qlik Data Integration, specifically Qlik Replicate. Working with Apache Kafka, it would sit between the bank\u2019s mainframe and data warehouse to enable the high-throughput, low-latency streaming of data in near-real time.\n The new environment was running in just a few months, with change data capture (CDC) functionality delivering data consistency and integrity, while continuous monitoring and management ensure smooth, rapid flows. With Qlik Data Integration in place, BNL BNP Paribas has transformed its data environment and its approach to data management and consumption.\n The data streaming service now powers 15 separate data domains connecting the mainframe to the open system. The data hub caches around 80 million digital records each day and around 40 million records are transferred to the open system daily.\n For BNL BNP Paribas\u2019 customers, the new data transfer speeds mean account information accessed through digital platforms is up to date and refreshed in near-real time.\n The BNL BNP Paribas case shows how even organizations with legacy operational and data environments can overcome their limitations and take full advantage of their data.\n The new architecture enabled by Qlik Replicate at BNP Paribas significantly eases pressure on the bank\u2019s mainframe, delivering a significant cost benefit on top of the speed and freshness of data.\n More importantly, it also enables BNL BNP Paribas to compete effectively with the industry\u2019s growing number of digital challengers thanks to a new range of digitally enabled apps and functionalities."
+    },
+    {
+        "id": "qlik_21",
+        "url": "https://www.qlik.com/us/resource-library/bnl-bnp-paribas-uses-qlik-replicate-to-build-new-data-architecture",
+        "title": "",
+        "company": "Bnl bnp paribas uses qlik replicate to build new data architecture",
+        "content": ""
+    },
+    {
+        "id": "qlik_22",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/lowa-switzerland",
+        "title": "Lowa Switzerland Case Study | Qlik",
+        "company": "Lowa switzerland",
+        "content": " Staff at a leading European footwear business can now access a single source of truth at the click of a button. LOWA is one of the world\u2019s major outdoor footwear manufacturers. Its shoes are exported to 80 countries exclusively from production sites in Europe, enabling the company to keep delivery times short and ensure consistent quality.\n Retrieving data from its enterprise resource planning (ERP) systems and creating reports was very time consuming. LOWA needed a user-friendly solution enabling reliable, automated data with a high degree of flexibility for analysis and connectable data sources to support a planned new merchandise management ERP system. LOWA opted for Qlik Sense\u00ae SaaS. Local BI specialist Informatec connected the data sources and made key adjustments to provide the data correctly for use in Qlik, before developing a range of sales and accounting applications. Qlik applications are now also used in logistics and senior management and deliver vital insights into sales, including lists of bestsellers and how well each design is performing. The accounts department analyzes personnel data such as wages and absences in Qlik, as well as overviews for contribution margin accounting. Qlik\u2019s major advantage is its speed. With the click of a button, LOWA now has access to the latest data, while automated updates allow analysis and reports to be provided daily. Qlik acts as a central database, which also ensures that all staff work with the same data and that there is a common understanding and transparency.\n Qlik is also set to be rolled out to the service department. A dashboard will make information available about the number and type of repairs required per shoe model, while a multi-year sales overview is also being planned.\n LOWA Switzerland is a great example of a business that wanted to keep a close eye on its data and the critical information contained within, focusing on outcomes rather than getting stuck in the weeds of acquisition and analysis.\n Combining Qlik\u2019s ease of use with expert advice and implementation support from a local partner was key to delivering a positive outcome. There is a wide network of Qlik Elite Solution Providers that can give your business the foundations it needs to pull data together and turn it into a high-value resource."
+    },
+    {
+        "id": "qlik_23",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/armscor",
+        "title": "ARMSCOR Case Study | Qlik",
+        "company": "Armscor",
+        "content": " South African defense procurement specialist cuts critical reporting times from weeks to hours. While procuring state-of-the art defense equipment is its primary responsibility, ARMSCOR is also keenly aware that it is an important hub in public sector finances. In 2021, it realized that its disparate environment of legacy finance systems was preventing it from delivering on its responsibilities with the efficiency it wanted.\n Dirty data and undocumented processes led to inaccuracies, inconsistencies, misinterpretation and lack of trust in the numbers, leading to ineffective analysis and considerable delays. ARMSCOR issued a tender outlining basic criteria such as ease of use, scalability and the flexibility to cover multiple areas of operation.\n South Africa-based data specialist Insight Consulting proposed Qlik Sense\u00ae and Qlik NPrinting, offering a full and sustainable package, including important data integration capabilities.\n ARMSCOR saw that Qlik Sense offered the interpretation and analysis capabilities it needed, while also able to acquire data from across its diverse IT environment. The transition to Qlik was a huge leap forward. Processes that once took weeks are now completed in hours, with report distribution handled automatically by Qlik NPrinting. Cumbersome spreadsheet-based processes in areas such as stakeholder reporting have also been transferred to Qlik.\n With Qlik accessing data from multiple systems in near-real time, ARMSCOR is no longer tied to separate reports for each process. Consolidated and visually appealing management reports are now available weekly, delivering insights across the organization.\n Qlik\u2019s adoption has changed attitudes at ARMSCOR, promoting data literacy across the organization and generating interest from other functions. With Qlik, data has gone from being a source of mistrust to an enabler of real and positive change \u2013 and without requiring a full system overhaul.\n Qlik solutions can also act as a roadmap for other parts of an organization. They can highlight how improved processes can be relatively simple to implement access but also enable an extensive range of benefits and exciting use cases."
+    },
+    {
+        "id": "qlik_24",
+        "url": "https://www.qlik.com/us/resource-library/lowa-switzerland-uses-qlik-sense-saas-to-derive-more-info",
+        "title": "",
+        "company": "Lowa switzerland uses qlik sense saas to derive more info",
+        "content": ""
+    },
+    {
+        "id": "qlik_25",
+        "url": "https://www.qlik.com/us/resource-library/government-agency-cuts-reporting-from-weeks-to-hours",
+        "title": "",
+        "company": "Government agency cuts reporting from weeks to hours",
+        "content": ""
+    },
+    {
+        "id": "qlik_26",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/nortera",
+        "title": "Nortera Case Study | Qlik",
+        "company": "Nortera",
+        "content": " Nortera works with Qlik Partner GINQO to implement Qlik Sense\u00ae and Qlik Cloud\u00ae across multiple locations. Nortera produces and markets over 450,000 tons of ready-to-cook vegetables a year; buyers include retailers, food service operators and producers of prepared products.\n Whether it\u2019s optimizing factory operations and agriculture or handling HR tasks, data drives Nortera\u2019s approach to critical processes. Nortera\u2019s aim is to be a business intelligence (BI) leader in its industry; however, when it came to stepping up its data and analytics processes, Nortera needed a strong partner to support the implementation of its vision. Nortera turned to GINQO, a Canadian Qlik Elite Partner. The two businesses share a passion for maximizing value from data; the result was Nortera not simply adopting Qlik Sense but embracing it.\n Qlik Sense became the company\u2019s official reporting tool in every department. While the main source is Nortera\u2019s enterprise resource planning (ERP) system, the company harvests data from 30 different software platforms.\n Nortera\u2019s ERP software now feeds data relating to supply, sales, inventory movements, shipments, purchasing, production and consumption. Tracking allergens in warehouses. Optimizing waste management. Verifying that weights of packaged goods are within set parameters. Nortera\u2019s use cases for Qlik are both broad and deep. Having over 550 Qlik users across the business means Nortera can significantly reduce licensing costs for other reporting software.\n Switching to Qlik Cloud also gives Nortera new capabilities. The new Authoring Mode means Nortera staff can achieve \u2018super user\u2019 results without hours of training, while agricultural workers can access Qlik directly from the field.\n Turning a dream into reality can be the tricky part of a data-led strategy, and this is where Qlik Partners come into play. They can align with your vision and work with you to bring the power of data to your fingertips.\n It\u2019s a path that Nortera took and it\u2019s delivered amazing results for the food producer. Qlik Sense is now present across its business, bringing new levels of efficiency and insight \u2013 and providing a solid foundation for yet more growth. It\u2019s the kind of success that could be achieved across any company of any shape or size."
+    },
+    {
+        "id": "qlik_27",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/dpd-switzerland",
+        "title": "DPD Switzerland Case Study | Qlik",
+        "company": "Dpd switzerland",
+        "content": " European logistics operator deploys Qlik to meet green objectives and increase transport network efficiency.  DPD is one of Switzerland\u2019s leading private express delivery and parcel delivery services, with 1,200 employees delivering around 24 million parcels a year. The business has set itself the objective of achieving net zero CO2 emissions by 2040.\n As part of achieving this objective, DPD wanted to identify the potential for improving efficiency and optimizing processes. It decided to implement a business intelligence solution capable of processing data from a range of source systems and mapping a wide spectrum of applications in one central BI system.\n\n Following a market analysis, Qlik Sense\u00ae stood out due to its analysis features and high flexibility for connecting to source systems. Other decisive criteria were its intuitive user interface and the various visualization options on offer.\n To implement the software, establish the data model and set up initial applications, DPD enlisted the experienced support of Informatec, a Swiss provider of IT services and Qlik Elite Solution Provider. Informatec scored highly for its technological know-how and technical expertise in transport and logistics.\n\n  The solution now comprises 20 streams. The \u2018Green Stream\u2019 applications perform detailed analysis of the ecological balance, evaluating how much CO2 is generated by transportation, the number of electric vans in use and the percentage of vehicles that are already green. Additional metrics include the number of parcels delivered on a climate-neutral basis and CO2 generated per package.\n Qlik also analyzes the amount and type of energy used at depots, with a focus on building data, green vans and first- and last-mile efficiency.\n Qlik is being used by around 120 employees in finance, HR, marketing and sales, as well as by senior management. The effectiveness of Qlik as a central analytics solution is also demonstrated by the development of new internal BI competencies at DPD Switzerland.\n \u201cFigures are only effective if you actually understand them,\u201d notes Rhianne Copson, BI Controller at DPD. \u201cIt\u2019s important to display data as simply and clearly as possible. Qlik offers a very large number of options for visualizing data in graphical form, which makes it easy to understand.\u201d"
+    },
+    {
+        "id": "qlik_28",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/carrefour-romania",
+        "title": "Carrefour Romania Case Study | Qlik",
+        "company": "Carrefour romania",
+        "content": " New data environment enables European retail giant to develop and enhance processes across the business. Carrefour operates around 14,000 stores worldwide and is enjoying particularly strong growth in Romania with more than 400 stores of various sizes and formats.  When Carrefour Romania embarked on its Google Cloud Platform (GCP) project, it envisaged multiple benefits from using a public cloud service, including faster delivery of new customer offerings. However, most of its data storage facilities were on-premises, either in stores or local data centers. While this gave the business stability, capacities were limited and structures excessively complex. Carrefour Romania saw that Talend Cloud Data Fabric was the tool it needed to turn multiple, disparate sources of data into a high-speed, high-value resource. Critical to the choice was the extensive range of prebuilt connectors available within Talend and the decentralized architecture it offered, as was Carrefour Romania\u2019s collaboration with local consultancy btProvider.  Carrefour Romania now has around 50 separate flows operated either by btProvider or other partners. Sources include BigQuery, PostgreSQL and Carrefour Romania\u2019s ERP solution. The new data environment has enabled Carrefour Romania to develop and enhance processes across the business. Successful projects this environment enables cover key areas such as metal and plastic recycling, e-transport and digital transfers of accounting data to auditors. Carrefour Romania\u2019s marketing operation can now build out the Act for Good customer loyalty program, using high-speed data access to develop personalized customer promotions and incentives. Near-real-time synchronization of prices and stock availability are also improving the customer experience. The broad range of integrations and use cases that Carrefour Romania has been able to build with Talend and btProvider illustrates the speeds of development that are available to any business. Siloed and disparate data sources don\u2019t have to be insurmountable obstacles. With Talend, businesses of all sizes and sectors can turn them into powerful assets that deliver tangible value and impressive results. As with Carrefour Romania, it can also act as a springboard for a host of other exciting digital initiatives and accelerated processes."
+    },
+    {
+        "id": "qlik_29",
+        "url": "https://www.qlik.com/us/resource-library/qlik-helps-logista-to-overcome-data-challenges-in-sap",
+        "title": "",
+        "company": "Qlik helps logista to overcome data challenges in sap",
+        "content": ""
+    },
+    {
+        "id": "qlik_30",
+        "url": "https://www.qlik.com/us/resource-library/mayborn-group-benefits-from-high-speed-insights",
+        "title": "",
+        "company": "Mayborn group benefits from high speed insights",
+        "content": ""
+    },
+    {
+        "id": "qlik_31",
+        "url": "https://www.qlik.com/us/resource-library/nortera-implements-qlik-sense-and-qlik-cloud-across-multiple-locations",
+        "title": "",
+        "company": "Nortera implements qlik sense and qlik cloud across multiple locations",
+        "content": ""
+    },
+    {
+        "id": "qlik_32",
+        "url": "https://www.qlik.com/us/resource-library/eureden-becomes-more-agile-thanks-to-qlik-sense-and-qlik-replicate",
+        "title": "",
+        "company": "Eureden becomes more agile thanks to qlik sense and qlik replicate",
+        "content": ""
+    },
+    {
+        "id": "qlik_33",
+        "url": "https://www.qlik.com/us/resource-library/dpd-reduces-carbon-footprint-and-improves-customer-service",
+        "title": "",
+        "company": "Dpd reduces carbon footprint and improves customer service",
+        "content": ""
+    },
+    {
+        "id": "qlik_34",
+        "url": "https://www.qlik.com/us/resource-library/trek-unifies-data-and-analytics-with-qlik-and-databricks",
+        "title": "",
+        "company": "Trek unifies data and analytics with qlik and databricks",
+        "content": ""
+    },
+    {
+        "id": "qlik_35",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/carvajal",
+        "title": "Carvajal Case Study | Qlik",
+        "company": "Carvajal",
+        "content": " Colombian industry leader drives further value through AI and Qlik Sense\u00ae Insight Advisor. Based in Cali, Colombia, and with 19,000 staff across Latin America and beyond, Carvajal\u2019s operations range from paper and packaging to technology and process outsourcing.\n As it developed its digital operation, in 2008 Carvajal added analytics to its suite of services but struggled to find a business intelligence (BI) platform with the capacity to process the high volumes of information required by its clients. As Carvajal searched for a more powerful solution, it turned to a local Qlik Partner, Manar Technologies, which introduced the business to Qlik. QlikView\u00ae was the perfect springboard for Carvajal\u2019s analytics operation, and when it was time to move to the next level, Manar proposed Qlik Cloud\u00ae Analytics, and, in particular, Qlik Sense\u00ae.\n With updated graphics, a more responsive design and self-service capabilities, Qlik Sense appealed immediately to Carvajal. It allowed Carvajal to substantially overhaul its client-facing offering, giving end users the opportunity to shape solutions to match specific requirements. And with AI on board, Carvajal could take advantage of Insight Advisor to complement the analysis with strategic insights driven by natural language. The sales, logistics and marketing teams of over 300 companies are now regular Qlik users \u2013 a figure that is rising steadily as Carvajal implements an exciting international growth strategy. The switch to Qlik Sense has already led to a 10% rise in user numbers and associated sales.\n Automated reporting now breaks down silos between functions and enhances seller and supplier-specific data with wider market and financial information. Insight Advisor then drives further value by allowing users to optimize strategies and sales through accessible, powerful, AI-driven user experiences.\n For many, working with a Qlik Partner isn\u2019t just a simple transactional relationship: it\u2019s an important strategic alliance that can deliver high-value results both for businesses and their clients.\n Manar worked with Carvajal to build a powerful client-facing solution, and the roadmap now includes building on the capabilities of Insight Advisor and deploying Qlik AutoML to strengthen the tool\u2019s predictive capabilities.\n The future for Carvajal is packed with exciting new possibilities \u2013 and of course, it includes continued collaboration with Manar."
+    },
+    {
+        "id": "qlik_36",
+        "url": "https://www.qlik.com/us/resource-library/indianoil-delivers-compelling-visualizations-with-qlik-sense",
+        "title": "",
+        "company": "Indianoil delivers compelling visualizations with qlik sense",
+        "content": ""
+    },
+    {
+        "id": "qlik_37",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/textron",
+        "title": "Textron Specialized Vehicles Case Study | Qlik",
+        "company": "Textron",
+        "content": " Databricks Data Intelligence Platform and Qlik Cloud Data Integration empower business users. Textron Specialized Vehicles (TSV) manufactures a wide range of vehicles for customers in various industries. In the process, it generates vast amounts of manufacturing and sales data.\n TSV decided to migrate from SAP ERP Central Component (SAP ECC) to SAP S/4HANA to standardize its SAP environment and upgrade the extract, load, transform (ELT) process. In doing so, TSV needed to be able to extract data directly from this new platform. It also wanted to deliver data to business users for use in multiple key purposes, including analytics on Qlik.\n\n TSV explored the Databricks Data Intelligence Platform and found that using it with Qlik Data Integration, specifically Qlik Replicate\u00ae, would be a powerful solution. \n TSV set up a flexible but secure architecture. Qlik uses change data capture calls to SAP and replicates data into the data lake. Databricks Delta Live Tables then performs the data transformation and applies best practices to deploy reliable pipelines at scale. The process makes silver-level tables accessible to the data lake, with Qlik helping to normalize the SAP data table names.\n\n TSV\u2019s goal is to make data available to business users in near-real time. With Databricks and Qlik, the company now streams data throughout the day, connecting Qlik Replicate to new data every few minutes.\n Previously, TSV\u2019s business data was only available to users in batches on request. The new process involving Databricks and Qlik is helping the company save man-hours and lower compute costs. TSV hopes to reduce the amount of time its team spends running and maintaining the data replication process from 80% to less than 10%.\n\n Having vast quantities of data in multiple locations, formats and structures doesn\u2019t have to stop it delivering for your business quickly and effectively. \n With the Databricks Data Intelligence Platform and Qlik Cloud\u00ae Data Integration, TSV is now set to continue its journey to maximize operational efficiency and deliver more of the revolutionary technology its customers want.\n By establishing a single source of truth for SAP data, manufacturers like TSV can also spend much more time on productive activities that serve their business and generate revenue."
+    },
+    {
+        "id": "qlik_38",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/indianoil",
+        "title": "Indian Oil Corporation Ltd (IndianOil) Case Study | Qlik",
+        "company": "Indianoil",
+        "content": " IndianOil combines AI/ML capabilities with Qlik Sense to bring data to 10,000 users. In a business the size of IndianOil, even small changes can make big differences to efficiency and performance. Managing opportunities is a substantial task in itself. IndianOil\u2019s flagship i-DRIVE project identified digital gaps in IndianOil. It saw the potential of artificial intelligence and machine learning (AI/ML) at an early stage but highlighted how data produced by digitization initiatives was siloed, hard to manage and underused. IndianOil needed a platform to acquire all this data, process it and present results in an engaging format.  IndianOil migrated to Qlik Sense to act as its user-facing visualization window for many of the initiatives introduced through i-DRIVE. Qlik offers a simple architecture capable of handling highly complex tasks, and key stakeholders at IndianOil appreciate its effectiveness as a solution. Ease of use and adoption was another critical factor. IndianOil\u2019s Information Systems (IS) department facilitated training for adoption across the organization. IndianOil now has around 150+ \u2018power users\u2019 and 10,000 regular users in a broad range of roles. The use cases are multiple and diverse. Tasks handled by IndianOil\u2019s growing suite of applications, which leverage AI/ML capabilities and demand dashboards, range from catering to board-level strategic decisions. Qlik delivers insights into customer behavior, IndianOil\u2019s critical supply chain, inventory management and the performance of equipment and machinery. Adding to the efficiencies are Qlik\u2019s self-service capabilities, which allow users to define their own parameters, build their own dashboards and access custom analytics and insights. Qlik dashboards allow users to visualize how markets and strategies are changing and develop innovative responses there and then. Analytics processes at IndianOil that previously took hours can now be completed in minutes, while energy-saving initiatives enabled by Qlik are also delivering impressive financial results. From the Chair and the board to production staff, Qlik is delivering high-value insights quickly and effectively. IndianOil can now invest more time in predictive analysis and discovering new technologies, inventions and ideas."
+    },
+    {
+        "id": "qlik_39",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/australian-national-university",
+        "title": "Australian National University (ANU) Case Study | Qlik",
+        "company": "Australian national university",
+        "content": " ANU pioneers sustainable campus operations with smart technologies and insightful analytics. Climate change and sustainability are challenges that ANU is determined to engage with proactively, starting with its own operation. It is the second-largest electricity user in the Australian Capital Territory, and its large buildings account for around half of its carbon footprint. A team was set up to understand data related to energy consumption. Having replaced hundreds of old and inaccurate dial-based electricity meters, ANU needed a new set of dashboards with the levels of visual appeal and engagement to harness the newly available data. ANU worked with authorised Qlik Partner Cast Solutions to build its Energy Dashboard. The Qlik-based platform combines a variety of data sets sourced from over 200 buildings and 1,000 electricity meters to understand where and how energy is used. The Energy Dashboard combines real-time local weather data to enhance building energy efficiency. Qlik Sense handles data modelling and visualizations to provide near-real-time insights to users across ANU, and a range of dashboards to manage day-to-day operations, maintenance and capital works. The Energy Dashboard provides critical insights into energy usage and heat transfer, building and structural characteristics, and operational factors and occupant behaviours that influence energy consumption. It highlights energy hotspots and opportunities for improvement, enabling management staff to see where and how energy is being used and how and where resources could be invested to reduce carbon output and costs. It also provides enables a deeper understanding of consumption in specific buildings, and consumption outliers and hotspots. Prior to implementing the Energy Dashboard, lack of transparency on carbon emissions and energy costs was holding ANU back. That has all changed. Decisions on how and where ANU should invest to reduce its energy consumption and carbon footprint are now based on data-led evidence. ANU is now extending the tool to other sustainability-based use cases such as water usage and waste management, with the aim of reducing waste to landfill and increasing recycling, repurposing and reuse. It\u2019s a small win for ANU, but a larger win for the environment."
+    },
+    {
+        "id": "qlik_40",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/necpc",
+        "title": "NEC Personal Computer Corporation (NECPC) Case Study | Qlik",
+        "company": "Necpc",
+        "content": " NECPC harnesses Qlik to drive new capabilities with streamlined, agentless transfers. One of NECPC\u2019s key strengths is its ability to adapt.It had implemented SAP ECC as its core system, using SAP connectors to bring data into QlikView. However, users began to see issues.  Batch-processed SAP data was reloaded into QlikView daily, but the delay meant data wasn\u2019t useable for finance and material requirements planning. NECPC saw that providing data in real time would enable better decisions, but with some people using QlikView for analysis and others relying on spreadsheets, it was not easy to create a unified environment. Staff had used Qlik since the company\u2019s inception and understood its benefits, but when the time came to rebuild its data analytics platform, NECPC looked at a wide range of products. Qlik Replicate caught its eye. The business quickly developed a proof of concept for a key function using Qlik Replicate and Qlik Compose.The real-time reloading of SAP data using Qlik Compose and the ease of use of Qlik Sense were highly rated both by the ICT department and each business unit. NECPC could then start building out the system with confidence. Restructuring the data analytics platform using Qlik products went smoothly, with deployment completed significantly ahead of schedule. With no need for each department to create its own reports, the entire company could effectively converse in a common language. Users can now obtain SAP data in real time and plan supply and demand almost automatically. As a result, NECPC has reduced the risk of excess inventory by 30%. In addition, by automating previously manual data-creation processes, each business unit has saved nearly 160 man-hours a year. Since launching the new platform, cooperation between NECPC\u2019s ICT department and various other business units has become even closer. Checks on system use have received good responses, with more specific requests about things like adding new data and fewer inquiries about how the platform works. In response to requests for improvements, NECPC has further polished the system and improved its ease of use. Plans are also underway for new opportunities and data integrations, including using machine learning to help NECPC staff develop new ideas."
+    },
+    {
+        "id": "qlik_41",
+        "url": "https://www.qlik.com/us/resource-library/necpc-used-qlik-replicate-and-qlik-compose-to-eliminate-latency",
+        "title": "",
+        "company": "Necpc used qlik replicate and qlik compose to eliminate latency",
+        "content": ""
+    },
+    {
+        "id": "qlik_42",
+        "url": "https://www.qlik.com/us/resource-library/sustainable-campus-operations-with-insightful-analytics",
+        "title": "",
+        "company": "Sustainable campus operations with insightful analytics",
+        "content": ""
+    },
+    {
+        "id": "qlik_43",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/mayborn-group",
+        "title": "Mayborn Group Case Study | Qlik",
+        "company": "Mayborn group",
+        "content": " Mayborn Group leverages Qlik to access reliable data from global sources quickly and effectively. For Mayborn Group, the company behind the Tommee Tippee brand of baby care products, brand loyalty and market presence are important priorities.\n Every percentage point of market share gained is precious and hard-won. It reflects the effectiveness of Mayborn\u2019s sales, marketing and promotional activity.\n Tracking critical indicators in these areas and reaching a single source of truth is an essential component of Mayborn\u2019s operation, and it\u2019s an area where high-quality data is key. Acquiring this data quickly and accurately from such a broad range of sources and locations is, however, a major task.\n Using Qlik Data Integration, Mayborn can access data in a range of formats from multiple locations to feed into its data warehouse. Sources include electronic point of sale (EPOS) data from retailers, market share data and Mayborn\u2019s e-commerce platform.\n Qlik Data Integration\u2019s ease of implementation enables quick results, with Qlik Cloud\u00ae Analytics then generating dashboards that tap into every part of Mayborn\u2019s operation to deliver key insights and high-value metrics.\n With Qlik, Mayborn can now access reliable data in consistently useable formats to create high value analytics.\n The Qlik-based Promotional Evaluation app plays a key role in assessing the financial impact of promotions, quickly identifying which activities are most successful so Mayborn can maximize returns on investment. A process that once took weeks is now completed in a couple of clicks.\n Global dashboards also interact with every part of the business, with regional dashboards designed specifically for users in the Americas, Australia and China.\n\n Mayborn\u2019s experience with Qlik has been phenomenal and shows how Qlik Cloud Analytics\u2019 advanced functionality can trigger a change in behavior within an organization.\n Organizations can gain significant benefits from generating alerts and enabling subscriptions to key data points. Qlik prompts calls to action to ensure that users interact and engage with the platform and the insights provided, enabling teams to take positive action."
+    },
+    {
+        "id": "qlik_44",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/trek-bicycle",
+        "title": "Trek Bicycle Case Study | Qlik",
+        "company": "Trek bicycle",
+        "content": " Global bicycle leader uses Qlik and Databricks Data Intelligence Platform to unify data. The business has achieved impressive global growth, but the core values that made Trek Bicycle successful haven\u2019t changed: it aims to provide an outstanding experience to customers and staff. To achieve this, it needs quick and reliable access to high-quality data.\n However, as Trek grew it became increasingly affected by the rising costs and decreasing performance of its data warehouse. Specifically, running analytics on retail data was challenging as Trek relied on a platform that was not scaling cost-effectively, which impacted processing speeds.\n\n As the business grew, Trek needed an agile data ingestion and transformation solution for its lakehouse. The solution needed to keep pace with growth and integrate with Databricks to deliver a global view of its performance and allow it to process data more quickly and regularly.\n Trek now uses Qlik and Databricks to collect sales data from nearly 500 stores worldwide. All computation happens on top of the lakehouse in a new data warehouse, with a semantic layer powering everything from strategic high-level reporting to daily store sales reports.\n By moving its data processing to the lakehouse and integrating data with Qlik, Trek has dramatically increased processing speeds and overall data availability. Instead of replicating enterprise resource planning (ERP) data once a week using bulk copies, Qlik helps to facilitate the process in near-real time.\n Trek\u2019s retail analytics solution used to take 48 hours to produce meaningful results. Today, Trek gets results in six to eight hours \u2014 an 80 to 90% improvement \u2014 with refreshes running three times a day, compared to only once a day previously.\n\n Databricks Lakehouse has been a game-changer for Trek. With Qlik Cloud\u00ae Data Integration, the business can replicate transactional data in real time from hundreds of stores and digital sources worldwide and take some impressive steps toward achieving its cloud-first vision.\n With the quick and reliable access to accurate data that this enables, businesses can cut costs, meet critical needs and focus on delivering world-class engagements with customers \u2014 whether online or in person at retail stores."
+    },
+    {
+        "id": "qlik_45",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/openreach",
+        "title": "Openreach Builds a New Vision of Directive Data with Actionable Insights | Qlik Customer Story",
+        "company": "Openreach",
+        "content": " Qlik \u2018levels the playing field\u2019, making a vital contribution to directing efforts and uplifting staff and operations. As the organization that builds and maintains the UK\u2019s broadband and telephone infrastructure, Openreach operates on a huge scale. Delivering its national fibre-to-the-premises (FTTP) upgrade project involves a relentless drive for streamlined processes and coordination.\n Openreach saw that it lacked the centralized data and strategic reporting ecosystem that would address critical needs. This included efficient and consistent oversight and management, ensuring that its vehicle fleet was deployed effectively and sustainably to deliver a smooth FTTP roll-out. Openreach replaced its spreadsheet-based reporting environment with Qlik Sense\u00ae, with the aim of putting reliable and consistent data and analytics into the hands of everyone who needs it. The unified and elevated data landscape created a clear uplift in data literacy.\n This has led to the creation of the Openreach Data and Insight (ODI) team, which allows the business to streamline the reporting process further and switch from simply delivering insight to actively informing decisions and actions. It was a step change in Openreach\u2019s Qlik deployment.\n  Actionable insights have allowed Openreach to cut delivery times for its high-speed Ethernet service by half, successfully meet regulatory obligations and significantly improve both costs and service targets for the FTTP project. Openreach now uses Qlik extensively in its field engineering operations, ensuring that managers can track team performance effectively. The business is also using Qlik to present predictive analytics to senior leaders, providing year-end forecasts and the opportunity to carry out \u2018what if\u2019 analysis.\n Reimagining a business\u2019s approach to data doesn\u2019t just have the potential to improve specific processes or save analysts\u2019 time. Modernizing its reporting environment certainly gave Openreach a great opportunity to rebuild the data it needed to achieve specific business aims, but it also provided critical support for wider organizational change.\n When used most effectively, businesses can evolve from having compelling data, reports and dashboards available in a single place to becoming increasingly directive \u2013 and effective \u2013 with the insights they deliver."
+    },
+    {
+        "id": "qlik_46",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/georgia-pacific",
+        "title": "Georgia-Pacific Case Study | Qlik",
+        "company": "Georgia pacific",
+        "content": " Market leader Georgia-Pacific created an easy to use single source of truth for both developers and end users. Data was spread across 30 siloed internal and external platforms. That meant 60 to 70 different media partners all speaking a slightly different data language. That cost the company millions of dollars and thousands of hours. Plus the cost of missed or unseen opportunities.\u00a0 \u201cIt\u2019s critical that we become a data-driven organization,\u201d says Brian Sullivano, Senior Director, Marketing Technology at Georgia-Pacific. \u201cWe need our teams to ensure that we\u2019re creating value, increasing the speed at which we react to the marketplace and most importantly, delivering against the daily needs of our consumers.\u201d  Data is now accessible from a host of previously siloed sources and consolidated into a common language and format.\u00a0 With Qlik Sense, Georgia-Pacific was quickly able to develop a range of dashboards and report-building applications. These now allow individual teams to dive into the data that matters to them, as well as make it available to cross-functional teams.  The deployment of Qlik Sense means data is now accessible from a host of previously siloed sources and consolidated into a common language and format.\u00a0 \u201cBy in-sourcing marketing mix modeling, we\u2019ve been able to understand the effectiveness of those investments more frequently and make better-informed decisions about our media choices,\u201d says Laura Knebusch, Senior Vice President, Marketing and Consumer Experience. \u201cAnd that goes beyond choosing between TV or digital \u2013 it extends to tactics, TV dayparts and partners. It\u2019s had an immediate impact.\u201d  With critical business data available centrally, quickly, and easily, your teams can elevate problem solving, find unexpected business and marketing opportunity, and maximize previously unseen advantage.\u00a0\u00a0 \u201cTeams or individual cross-functional team members can go in and see every single dimension and measure what we have in the business today,\u201d Sullivano explains. \u201cThrough simple click-and-select-type capabilities, they\u2019re able to create their own reports, save those reports, publish them, share them with other people and collaborate on the details and information gained.\u201d "
+    },
+    {
+        "id": "qlik_47",
+        "url": "https://www.qlik.com/us/resource-library/vale-achieves-yearly-benefit-of-usd600m",
+        "title": "",
+        "company": "Vale achieves yearly benefit of usd600m",
+        "content": ""
+    },
+    {
+        "id": "qlik_48",
+        "url": "https://www.qlik.com/us/resource-library/siemens-healthineers-creating-innovation-through-digitalization",
+        "title": "Siemens Healthineers: Creating Innovation Through Digitalization | Qlik Video",
+        "company": "Siemens healthineers creating innovation through digitalization",
+        "content": "   Since starting its journey with Qlik more than ten years ago, Siemens Healthineers continues to embody modernization and advancement across the business \u2013 including its approach to data transformation. Starting with QlikView, then Qlik Sense and now with Qlik Cloud, today Siemens Healthineers has more than 13,000 Qlik users across 40 countries. As the company charges ahead into the next era of analytics innovation with Qlik, it expects an estimated 50% cost saving within two years. \nFully integrated functionalities like Qlik Application Automation and Qlik AutoML\u00ae are designed to support Siemens Healthineers progressing on its digitalization strategy, increase productivity and gain actionable insights from data much faster.\n\n"
+    },
+    {
+        "id": "qlik_49",
+        "url": "https://www.qlik.com/us/resource-library/sodastream-optimizes-consumer-centric-marketing-strategy",
+        "title": "",
+        "company": "Sodastream optimizes consumer centric marketing strategy",
+        "content": ""
+    },
+    {
+        "id": "qlik_50",
+        "url": "https://www.qlik.com/us/resource-library/fair-price-enhance-transparency-and-control",
+        "title": "",
+        "company": "Fair price enhance transparency and control",
+        "content": ""
+    },
+    {
+        "id": "qlik_51",
+        "url": "https://www.qlik.com/us/resource-library/data-helps-c40-meet-their-climate-goals",
+        "title": "Data Helps C40 Meet Climate Goals | Qlik Video",
+        "company": "Data helps c40 meet their climate goals",
+        "content": "   C40 is a network connecting the mayors of nearly 100 cities, representing 20% of global GDP, collaborating to deliver the urgent action needed to confront the climate crisis. Mark Watts, Executive Director, explains: by using Qlik solutions, which include advanced analytic capabilities such as AI and machine learning, C40 is gaining insights that enable the organization and its member cities to advance their climate action goals.\n"
+    },
+    {
+        "id": "qlik_52",
+        "url": "https://www.qlik.com/us/resource-library/data-helps-c40-meet-climate-goals",
+        "title": "",
+        "company": "Data helps c40 meet climate goals",
+        "content": ""
+    },
+    {
+        "id": "qlik_53",
+        "url": "https://www.qlik.com/us/resource-library/lintech-reduces-churn-increases-revenue",
+        "title": "",
+        "company": "Lintech reduces churn increases revenue",
+        "content": ""
+    },
+    {
+        "id": "qlik_54",
+        "url": "https://www.qlik.com/us/resource-library/a-game-changing-approach-to-analytics",
+        "title": "",
+        "company": "A game changing approach to analytics",
+        "content": ""
+    },
+    {
+        "id": "qlik_55",
+        "url": "https://www.qlik.com/us/resource-library/wslhd-better-analytics-better-health-outcomes",
+        "title": "",
+        "company": "Wslhd better analytics better health outcomes",
+        "content": ""
+    },
+    {
+        "id": "qlik_56",
+        "url": "https://www.qlik.com/us/resource-library/consolidated-data-empowers-cancer-care",
+        "title": "",
+        "company": "Consolidated data empowers cancer care",
+        "content": ""
+    },
+    {
+        "id": "qlik_57",
+        "url": "https://www.qlik.com/us/resource-library/caixabank-transforms-decision-making",
+        "title": "CaixaBank Transforms Decision Making | Qlik Video",
+        "company": "Caixabank transforms decision making",
+        "content": "  CaixaBank is the leading financial group in Spain. It boasts the largest branch and ATM network in Spain and Portugal and is also a leader in digital banking.\r"
+    },
+    {
+        "id": "qlik_58",
+        "url": "https://www.qlik.com/us/resource-library/syngenta-drives-top-line-revenue-opportunities",
+        "title": "Syngenta Drives Top-Line Revenue Opportunities with Data-Driven Insights | Qlik Video",
+        "company": "Syngenta drives top line revenue opportunities",
+        "content": "   Syngenta Group empowers the global food chain to feed the world and care for our planet. With a mission to become the world\u2019s most data literate agricultural company, Syngenta has put Data & Analytics supported with Qlik at the heart of its digital transformation to support double-digit growth for the third year running."
+    },
+    {
+        "id": "qlik_59",
+        "url": "https://www.qlik.com/us/resource-library/direct-relief-turn-information-into-aid",
+        "title": "Direct Relief Turn Information Into Aid | Qlik Video",
+        "company": "Direct relief turn information into aid",
+        "content": "   Direct Relief works in over 80 countries to equip doctors and nurses with lifesaving medicines and supplies, along with essential funding for stronger health systems. Qlik has been at the heart of the organization's work since 2015. Andrew Schroeder, Vice President of Research & Analysis, explains that after the invasion of Ukraine in 2022, Direct Relief provided vital support to Ukrainians fleeing the war. By analyzing anonymized metadata from social media on mobile devices, Direct Relief understands how population densities are changing in areas receiving significant influxes of refugees. This helps the team inform itself and others about where to allocate staff, money and other assistance, turning information into aid.\n"
+    },
+    {
+        "id": "qlik_60",
+        "url": "https://www.qlik.com/us/resource-library/inventory-analysis-visualization-and-management",
+        "title": "",
+        "company": "Inventory analysis visualization and management",
+        "content": ""
+    },
+    {
+        "id": "qlik_61",
+        "url": "https://www.qlik.com/us/resource-library/qlik-places-walker-in-the-drivers-seat",
+        "title": "",
+        "company": "Qlik places walker in the drivers seat",
+        "content": ""
+    },
+    {
+        "id": "qlik_62",
+        "url": "https://www.qlik.com/us/resource-library/qlik-helps-nationwide-building-society-with-data-literacy",
+        "title": "Qlik Helps Nationwide Building Society With Data Literacy | Qlik Video",
+        "company": "Qlik helps nationwide building society with data literacy",
+        "content": "  "
+    },
+    {
+        "id": "qlik_63",
+        "url": "https://www.qlik.com/us/resource-library/fenwick-drives-business-growth-with-the-power-of-qlik-saas",
+        "title": "Fenwick Drives Business Growth with the Power of Qlik SaaS | Qlik Video",
+        "company": "Fenwick drives business growth with the power of qlik saas",
+        "content": "  "
+    },
+    {
+        "id": "qlik_64",
+        "url": "https://www.qlik.com/us/resource-library/macquarie-university-gives-students-real-world-experience",
+        "title": "",
+        "company": "Macquarie university gives students real world experience",
+        "content": ""
+    },
+    {
+        "id": "qlik_65",
+        "url": "https://www.qlik.com/us/resource-library/malmo-redhawks-changes-their-game-with-qlik-analytics",
+        "title": "Malm\u00f6 Redhawks Changes Their Game With Qlik Analytics | Qlik Video",
+        "company": "Malmo redhawks changes their game with qlik analytics",
+        "content": "  "
+    },
+    {
+        "id": "qlik_66",
+        "url": "https://www.qlik.com/us/resource-library/iwn-data-can-transform-the-water-industry",
+        "title": "",
+        "company": "Iwn data can transform the water industry",
+        "content": ""
+    },
+    {
+        "id": "qlik_67",
+        "url": "https://www.qlik.com/us/resource-library/miid-saves-256-man-hours-with-smarter-transport",
+        "title": "",
+        "company": "Miid saves 256 man hours with smarter transport",
+        "content": ""
+    },
+    {
+        "id": "qlik_68",
+        "url": "https://www.qlik.com/us/resource-library/te-whatu-ora-mhaids-use-qlik-to-make-informed-decisions",
+        "title": "",
+        "company": "Te whatu ora mhaids use qlik to make informed decisions",
+        "content": ""
+    },
+    {
+        "id": "qlik_69",
+        "url": "https://www.qlik.com/us/resource-library/kanden-powers-up-operations-with-data",
+        "title": "",
+        "company": "Kanden powers up operations with data",
+        "content": ""
+    },
+    {
+        "id": "qlik_70",
+        "url": "https://www.qlik.com/us/resource-library/a-unique-ecological-study-opportunity",
+        "title": "",
+        "company": "A unique ecological study opportunity",
+        "content": ""
+    },
+    {
+        "id": "qlik_71",
+        "url": "https://www.qlik.com/us/resource-library/textron-uses-qlik-and-databricks-to-drive-innovation",
+        "title": "",
+        "company": "Textron uses qlik and databricks to drive innovation",
+        "content": ""
+    },
+    {
+        "id": "qlik_72",
+        "url": "https://www.qlik.com/us/resource-library/polygon-helps-shape-lending-strategies",
+        "title": "",
+        "company": "Polygon helps shape lending strategies",
+        "content": ""
+    },
+    {
+        "id": "qlik_73",
+        "url": "https://www.qlik.com/us/resource-library/qlik-empowers-hitachis-supply-chain-decisions",
+        "title": "",
+        "company": "Qlik empowers hitachis supply chain decisions",
+        "content": ""
+    },
+    {
+        "id": "qlik_74",
+        "url": "https://www.qlik.com/us/resource-library/qlik-enables-40-accuracy-improvement",
+        "title": "",
+        "company": "Qlik enables 40 accuracy improvement",
+        "content": ""
+    },
+    {
+        "id": "qlik_75",
+        "url": "https://www.qlik.com/us/resource-library/airbus-consolidates-data-sources-to-optimize-aircraft-production",
+        "title": "",
+        "company": "Airbus consolidates data sources to optimize aircraft production",
+        "content": ""
+    },
+    {
+        "id": "qlik_76",
+        "url": "https://www.qlik.com/us/resource-library/breuninger-interweaving-sap-and-google-bigquery",
+        "title": "",
+        "company": "Breuninger interweaving sap and google bigquery",
+        "content": ""
+    },
+    {
+        "id": "qlik_77",
+        "url": "https://www.qlik.com/us/resource-library/wrightington-wigan-and-leigh-from-ward-to-board-with-qlik",
+        "title": "Wrightington, Wigan and Leigh - from Ward to Board with Qlik",
+        "company": "Wrightington wigan and leigh from ward to board with qlik",
+        "content": "   Wrightington, Wigan and Leigh NHS Foundation Trust share their data-driven culture and insight helping staff to deliver \u2018patient first\u2019 care. Qlik apps support A&E and surgical theatres, decreases waiting times, provides insights into finance and clinical variation.\n\n\u201cI can see at a glance how we are doing right now and what we expect to happen in the coming hours. It\u2019s like having a \u2018weather station\u2019 in my office.\u201d \u2013 Andrew Foster, Chief Executive, WWL"
+    },
+    {
+        "id": "qlik_78",
+        "url": "https://www.qlik.com/us/resource-library/gordon-food-service-gains-business-awareness",
+        "title": "",
+        "company": "Gordon food service gains business awareness",
+        "content": ""
+    },
+    {
+        "id": "qlik_79",
+        "url": "https://www.qlik.com/us/resource-library/direct-relief-with-qlik-video",
+        "title": "Direct Relief: Powerful Data Visualizations | Qlik Video",
+        "company": "Direct relief with qlik video",
+        "content": "   Direct Relief acts as the humanitarian supply chain for those affected by poverty or emergency situations by mobilizing and shipping essential medical resources donated from life sciences companies. Using Qlik they are able to leverage data to safely deliver sensitive goods across an often damaged infrastructure to people in need.\n\n"
+    },
+    {
+        "id": "qlik_80",
+        "url": "https://www.qlik.com/us/resource-library/anz-bank-derives-value-from-data-with-qlik",
+        "title": "ANZ Bank Derives Value From Data With Qlik | Qlik Video",
+        "company": "Anz bank derives value from data with qlik",
+        "content": "  "
+    },
+    {
+        "id": "qlik_81",
+        "url": "https://www.qlik.com/us/resource-library/greene-tweed-gains-active-intelligence-with-qlik",
+        "title": "",
+        "company": "Greene tweed gains active intelligence with qlik",
+        "content": ""
+    },
+    {
+        "id": "qlik_82",
+        "url": "https://www.qlik.com/us/resource-library/data-is-the-new-gold-for-lenovos-strategic-advantage",
+        "title": "Data Is the New Gold for Lenovo\u2019s Strategic Advantage | Qlik Video",
+        "company": "Data is the new gold for lenovos strategic advantage",
+        "content": "  "
+    },
+    {
+        "id": "qlik_83",
+        "url": "https://www.qlik.com/us/resource-library/vodafoneziggo-offers-self-service-data-buffet",
+        "title": "",
+        "company": "Vodafoneziggo offers self service data buffet",
+        "content": ""
+    },
+    {
+        "id": "qlik_84",
+        "url": "https://www.qlik.com/us/resource-library/greene-tweed-gains-efficiencies-in-sap-data-replication",
+        "title": "",
+        "company": "Greene tweed gains efficiencies in sap data replication",
+        "content": ""
+    },
+    {
+        "id": "qlik_85",
+        "url": "https://www.qlik.com/us/resource-library/sorgenia-stays-ahead-of-competition-with-vital-data-insights",
+        "title": "",
+        "company": "Sorgenia stays ahead of competition with vital data insights",
+        "content": ""
+    },
+    {
+        "id": "qlik_86",
+        "url": "https://www.qlik.com/us/resource-library/volvo-groups-journey-data-adoption-collaboration-with-qlik",
+        "title": "Volvo Group's Journey to Data Adoption and Collaboration with Qlik | Qlik Video",
+        "company": "Volvo groups journey data adoption collaboration with qlik",
+        "content": "  "
+    },
+    {
+        "id": "qlik_87",
+        "url": "https://www.qlik.com/us/resource-library/capital-and-coast-district-health-board-increased",
+        "title": "",
+        "company": "Capital and coast district health board increased",
+        "content": ""
+    },
+    {
+        "id": "qlik_88",
+        "url": "https://www.qlik.com/us/resource-library/contra-costa-health-system-transforms-data-noise",
+        "title": "",
+        "company": "Contra costa health system transforms data noise",
+        "content": ""
+    },
+    {
+        "id": "qlik_89",
+        "url": "https://www.qlik.com/us/resource-library/vancouver-international-airport-transforms-air-travel-with-bi-analytics",
+        "title": "",
+        "company": "Vancouver international airport transforms air travel with bi analytics",
+        "content": ""
+    },
+    {
+        "id": "qlik_90",
+        "url": "https://www.qlik.com/us/resource-library/arch-systems-billion-data-points-optimize-uptime",
+        "title": "",
+        "company": "Arch systems billion data points optimize uptime",
+        "content": ""
+    },
+    {
+        "id": "qlik_91",
+        "url": "https://www.qlik.com/us/resource-library/poly-wood-case-study",
+        "title": "",
+        "company": "Poly wood case study",
+        "content": ""
+    },
+    {
+        "id": "qlik_92",
+        "url": "https://www.qlik.com/us/resource-library/infographic-bmw-group",
+        "title": "",
+        "company": "Infographic bmw group",
+        "content": ""
+    },
+    {
+        "id": "qlik_93",
+        "url": "https://www.qlik.com/us/resource-library/woolworths-improves-inventory-processes-with-data",
+        "title": "",
+        "company": "Woolworths improves inventory processes with data",
+        "content": ""
+    },
+    {
+        "id": "qlik_94",
+        "url": "https://www.qlik.com/us/resource-library/ferguson-on-azure-with-qlik-data-integration",
+        "title": "",
+        "company": "Ferguson on azure with qlik data integration",
+        "content": ""
+    },
+    {
+        "id": "qlik_95",
+        "url": "https://www.qlik.com/us/resource-library/sourcing-all-data-into-one-data-lake-with-snowflake-and-qlik-data-integration",
+        "title": "",
+        "company": "Sourcing all data into one data lake with snowflake and qlik data integration",
+        "content": ""
+    },
+    {
+        "id": "qlik_96",
+        "url": "https://www.qlik.com/us/resource-library/qlik-empowers-company-wide-insights-with-embedding",
+        "title": "",
+        "company": "Qlik empowers company wide insights with embedding",
+        "content": ""
+    },
+    {
+        "id": "qlik_97",
+        "url": "https://www.qlik.com/us/resource-library/mayborn-group",
+        "title": "Mayborn Group: 2022 Global Transformation Award Winner | Qlik Video",
+        "company": "Mayborn group",
+        "content": "  "
+    },
+    {
+        "id": "qlik_98",
+        "url": "https://www.qlik.com/us/resource-library/mayborn-group-active-intelligence-drives-better-analysis",
+        "title": "Mayborn Group: Active Intelligence Drives Better Analysis | Qlik Video",
+        "company": "Mayborn group active intelligence drives better analysis",
+        "content": "   For Mayborn Group, the company behind the Tommee Tippee brand of baby care products, brand loyalty and market presence are important priorities. Tracking critical indicators in these areas and reaching a single source of truth is essential, and it\u2019s an area where high-quality data is key. Acquiring this data quickly and accurately from such a broad range of sources and locations is, however, a major task. With Qlik, Mayborn can now access reliable data in consistently useable formats to create high value analytics. Using Qlik Data Integration, Mayborn can access data from multiple locations to feed into its data warehouse. And Qlik Cloud\u00ae Analytics generates dashboards that tap into every part of Mayborn\u2019s operation to deliver key insights. \n\n \n"
+    },
+    {
+        "id": "qlik_99",
+        "url": "https://www.qlik.com/us/resource-library/mainframe-data-replication-to-aws",
+        "title": "",
+        "company": "Mainframe data replication to aws",
+        "content": ""
+    },
+    {
+        "id": "qlik_100",
+        "url": "https://www.qlik.com/us/resource-library/sistic-singapore",
+        "title": "SISTIC Singapore: Putting the Spotlight on Analytics With Qlik | Qlik Video",
+        "company": "Sistic singapore",
+        "content": "   Putting the Spotlight on Analytics With Qlik."
+    },
+    {
+        "id": "qlik_101",
+        "url": "https://www.qlik.com/us/resource-library/sega-games",
+        "title": "SEGA Games Customer Story | Qlik Video",
+        "company": "Sega games",
+        "content": "   Gaming is hard work! With Qlik, SEGA Games in Japan can now analyze game user trends data very quickly and provide insights across multiple divisions to those who need it. It\u2019s also helped to allow SEGA Games team members to work smarter - by being able to explore data from different viewpoints instead of relying on fixed indicators as well as reducing the time taken to implement improvements to their mobile games. Qlik Sense has also enabled SEGA Games to have better visibility on user trends and on game performance.\n\n "
+    },
+    {
+        "id": "qlik_102",
+        "url": "https://www.qlik.com/us/resource-library/ocean-and-earth-gain-valuable-retail-insights-with-qlik",
+        "title": "Ocean & Earth Gain Valuable Retail Insights With Qlik | Qlik",
+        "company": "Ocean and earth gain valuable retail insights with qlik",
+        "content": "  "
+    },
+    {
+        "id": "qlik_103",
+        "url": "https://www.qlik.com/us/resource-library/novartis-is-going-big-on-data",
+        "title": "Novartis Is Going Big On Data | Qlik Video",
+        "company": "Novartis is going big on data",
+        "content": "   Pharmaceutical life sciences leader Novartis wanted to democratize data and encourage employees to use data in their day-to-day operations. The company needed a scalable analytics solution. Novartis implemented Qlik Sense company-wide including in its corporate business services, commercial, development, technical operations, IT, supply chain and finance functions. Forty thousand employees now have access to over 500 Qlik apps. Qlik has helped Novartis reinvent itself and encourage data literacy. Self-service insights have enabled Novartis to accelerate the development of new medicines, reduce costs and improve sales.\n"
+    },
+    {
+        "id": "qlik_104",
+        "url": "https://www.qlik.com/us/resource-library/q-36-5-pro-cycling-team",
+        "title": "Q36.5 Pro Cycling Team Develops Game-Changing Strategies | Qlik Video",
+        "company": "Q 36 5 pro cycling team",
+        "content": "   Reaching \u2013 and eventually winning - the Tour de France which Q36.5 Pro Cycling Team aspires, involves successfully blending a combination of critical factors. This includes selecting and recruiting the best riders, planning and executing effective race strategies and managing team operations intelligently and effectively. Getting the right people on board is vital to success, but for Q36.5 Pro Cycling Team this is just the starting point. Races are won on split-second decisions, having the latest information at your fingertips is crucial.\n Developed with UK-based Qlik partner Differentia Consulting, the Qlik solution matched Q36.5 Pro Cycling Team\u2019s forward-thinking philosophy. Its primary function is to track all professional cyclists, from continental right through to World Tour level, and provide insights into their performance and results. The app is a real game-changer for the team."
+    },
+    {
+        "id": "qlik_105",
+        "url": "https://www.qlik.com/us/resource-library/ikano-increases-sales-and-customer-satisfaction-with-qlik",
+        "title": "Ikano Increases Sales and Customer Satisfaction With Qlik | Qlik Video",
+        "company": "Ikano increases sales and customer satisfaction with qlik",
+        "content": "  "
+    },
+    {
+        "id": "qlik_106",
+        "url": "https://www.qlik.com/us/resource-library/merck-uses-qlik-for-deep-insights-into-clinical-trials",
+        "title": "Merck Uses Qlik for Deep Insights into Clinical Trials That Improve Lives Around the World | Qlik Video",
+        "company": "Merck uses qlik for deep insights into clinical trials",
+        "content": "   Merck & Co, known as MSD outside of the United States and Canada, is a global pharmaceutical company whose mission is to discover, develop and provide innovative products and services that save and improve lives around the world. The company\u2019s Global Clinical Trial Operations team oversees the conduct of over 300 late development stage clinical trials."
+    },
+    {
+        "id": "qlik_107",
+        "url": "https://www.qlik.com/us/resource-library/generali-customer-video",
+        "title": "Generali Switzerland: Real-Time Big Data Integration Using Qlik Replicate\u00ae | Qlik Video",
+        "company": "Generali customer video",
+        "content": "   Market leaders in every industry are beginning to see the power of real-time big data integration and how connecting it can enable them to re-imagine their markets, customers, products, and business models. Generali Switzerland guides us through their journey of setting up an event-driven architecture to support their digital transformation project using Qlik Replicate & Kafka solutions.\n\n"
+    },
+    {
+        "id": "qlik_108",
+        "url": "https://www.qlik.com/us/resource-library/aegon-unshackles-legacy-systems-chains-using-aws-and-qlik",
+        "title": "Aegon Delivers Multi-Sourced Data With AWS and Qlik | Qlik Video",
+        "company": "Aegon unshackles legacy systems chains using aws and qlik",
+        "content": "   Global financial services leader Aegon harnesses the power of their data by unshackling the chains of their legacy systems and delivers multi-sourced data into the cloud with real-time, automated data pipelines. They do this with a cloud data environment using AWS and Qlik.\n\n"
+    },
+    {
+        "id": "qlik_109",
+        "url": "https://www.qlik.com/us/resource-library/duravit-faster-better-reporting-brings-goals",
+        "title": "",
+        "company": "Duravit faster better reporting brings goals",
+        "content": ""
+    },
+    {
+        "id": "qlik_110",
+        "url": "https://www.qlik.com/us/resource-library/fm-logistic-data-that-powers-logistics-4-0",
+        "title": "",
+        "company": "Fm logistic data that powers logistics 4 0",
+        "content": ""
+    },
+    {
+        "id": "qlik_111",
+        "url": "https://www.qlik.com/us/resource-library/mental-health-concern-healthier-data-translates-to-better-mental-health",
+        "title": "",
+        "company": "Mental health concern healthier data translates to better mental health",
+        "content": ""
+    },
+    {
+        "id": "qlik_112",
+        "url": "https://www.qlik.com/us/resource-library/spirax-sarco-improving-cash-flow-through-automation-and-data-standardization",
+        "title": "",
+        "company": "Spirax sarco improving cash flow through automation and data standardization",
+        "content": ""
+    },
+    {
+        "id": "qlik_113",
+        "url": "https://www.qlik.com/us/resource-library/simba-sleep-with-stitch-lose-no-sleep-over-aggressive-growth-pains",
+        "title": "",
+        "company": "Simba sleep with stitch lose no sleep over aggressive growth pains",
+        "content": ""
+    },
+    {
+        "id": "qlik_114",
+        "url": "https://www.qlik.com/us/resource-library/save-the-children-germany-saving-time-and-effort",
+        "title": "",
+        "company": "Save the children germany saving time and effort",
+        "content": ""
+    },
+    {
+        "id": "qlik_115",
+        "url": "https://www.qlik.com/us/resource-library/lenovo-predicting-the-future-one-transaction-at-a-time",
+        "title": "",
+        "company": "Lenovo predicting the future one transaction at a time",
+        "content": ""
+    },
+    {
+        "id": "qlik_116",
+        "url": "https://www.qlik.com/us/resource-library/swiss-life-france-uses-qlik-replicate-tm-to-deliver-customer-data",
+        "title": "",
+        "company": "Swiss life france uses qlik replicate tm to deliver customer data",
+        "content": ""
+    },
+    {
+        "id": "qlik_117",
+        "url": "https://www.qlik.com/us/resource-library/fanatics-leverages-a-cloud-data-lake-for-analytics-with-amazon-web-services-and-qlik-case-study",
+        "title": "",
+        "company": "Fanatics leverages a cloud data lake for analytics with amazon web services and qlik case study",
+        "content": ""
+    },
+    {
+        "id": "qlik_118",
+        "url": "https://www.qlik.com/us/resource-library/medux-visualizes-data-achieving-data-literacy",
+        "title": "",
+        "company": "Medux visualizes data achieving data literacy",
+        "content": ""
+    },
+    {
+        "id": "qlik_119",
+        "url": "https://www.qlik.com/us/resource-library/covanta-drive-data-outcomes-with-effective-data-governance",
+        "title": "",
+        "company": "Covanta drive data outcomes with effective data governance",
+        "content": ""
+    },
+    {
+        "id": "qlik_120",
+        "url": "https://www.qlik.com/us/resource-library/globe-telecom-enhance-mobile-subscriber-experiences-with-trustworthy-data",
+        "title": "",
+        "company": "Globe telecom enhance mobile subscriber experiences with trustworthy data",
+        "content": ""
+    },
+    {
+        "id": "qlik_121",
+        "url": "https://www.qlik.com/us/resource-library/beneva-elevate-marketing-success-through-data-quality-excellence",
+        "title": "",
+        "company": "Beneva elevate marketing success through data quality excellence",
+        "content": ""
+    },
+    {
+        "id": "qlik_122",
+        "url": "https://www.qlik.com/us/resource-library/jaguar-land-rover-gains-real-time-access-to-actionable-data",
+        "title": "",
+        "company": "Jaguar land rover gains real time access to actionable data",
+        "content": ""
+    },
+    {
+        "id": "qlik_123",
+        "url": "https://www.qlik.com/us/resource-library/data-accuracy-offers-new-opportunities",
+        "title": "",
+        "company": "Data accuracy offers new opportunities",
+        "content": ""
+    },
+    {
+        "id": "qlik_124",
+        "url": "https://www.qlik.com/us/resource-library/service-speed-takes-uwm-to-new-heights",
+        "title": "",
+        "company": "Service speed takes uwm to new heights",
+        "content": ""
+    },
+    {
+        "id": "qlik_125",
+        "url": "https://www.qlik.com/us/resource-library/besix-achieves-better-decision-making-based-on-trusted-data",
+        "title": "",
+        "company": "Besix achieves better decision making based on trusted data",
+        "content": ""
+    },
+    {
+        "id": "qlik_126",
+        "url": "https://www.qlik.com/us/resource-library/real-time-data-drives-key-efficiencies",
+        "title": "",
+        "company": "Real time data drives key efficiencies",
+        "content": ""
+    },
+    {
+        "id": "qlik_127",
+        "url": "https://www.qlik.com/us/resource-library/mentor-graphics-case-study",
+        "title": "",
+        "company": "Mentor graphics case study",
+        "content": ""
+    },
+    {
+        "id": "qlik_128",
+        "url": "https://www.qlik.com/us/resource-library/etix-case-study",
+        "title": "",
+        "company": "Etix case study",
+        "content": ""
+    },
+    {
+        "id": "qlik_129",
+        "url": "https://www.qlik.com/us/resource-library/briefcam-transforms-video-data-into-insights",
+        "title": "",
+        "company": "Briefcam transforms video data into insights",
+        "content": ""
+    },
+    {
+        "id": "qlik_130",
+        "url": "https://www.qlik.com/us/resource-library/schneider-electric-unlocks-value-from-sap-data",
+        "title": "",
+        "company": "Schneider electric unlocks value from sap data",
+        "content": ""
+    },
+    {
+        "id": "qlik_131",
+        "url": "https://www.qlik.com/us/resource-library/nz-health-partnerships-move-from-analytics-to-insights",
+        "title": "",
+        "company": "Nz health partnerships move from analytics to insights",
+        "content": ""
+    },
+    {
+        "id": "qlik_132",
+        "url": "https://www.qlik.com/us/resource-library/smc-puts-data-at-its-fingertips",
+        "title": "",
+        "company": "Smc puts data at its fingertips",
+        "content": ""
+    },
+    {
+        "id": "qlik_133",
+        "url": "https://www.qlik.com/us/resource-library/unitrans-takes-data-the-extra-mile",
+        "title": "",
+        "company": "Unitrans takes data the extra mile",
+        "content": ""
+    },
+    {
+        "id": "qlik_134",
+        "url": "https://www.qlik.com/us/resource-library/vinci-energies",
+        "title": "",
+        "company": "Vinci energies",
+        "content": ""
+    },
+    {
+        "id": "qlik_135",
+        "url": "https://www.qlik.com/us/resource-library/national-stock-exchange-saves-time-with-qlik",
+        "title": "",
+        "company": "National stock exchange saves time with qlik",
+        "content": ""
+    },
+    {
+        "id": "qlik_136",
+        "url": "https://www.qlik.com/us/resource-library/bank-btpn-streams-real-time-data-with-qlik",
+        "title": "",
+        "company": "Bank btpn streams real time data with qlik",
+        "content": ""
+    },
+    {
+        "id": "qlik_137",
+        "url": "https://www.qlik.com/us/resource-library/sega-leveling-up-the-mobile-game-experience",
+        "title": "",
+        "company": "Sega leveling up the mobile game experience",
+        "content": ""
+    },
+    {
+        "id": "qlik_138",
+        "url": "https://www.qlik.com/us/resource-library/anz-bank-make-better-decisions-with-data",
+        "title": "",
+        "company": "Anz bank make better decisions with data",
+        "content": ""
+    },
+    {
+        "id": "qlik_139",
+        "url": "https://www.qlik.com/us/resource-library/data-is-the-key-to-retail-success-at-samsung",
+        "title": "",
+        "company": "Data is the key to retail success at samsung",
+        "content": ""
+    },
+    {
+        "id": "qlik_140",
+        "url": "https://www.qlik.com/us/resource-library/devon-energy-simplifies-data-transition-to-cloud",
+        "title": "",
+        "company": "Devon energy simplifies data transition to cloud",
+        "content": ""
+    },
+    {
+        "id": "qlik_141",
+        "url": "https://www.qlik.com/us/resource-library/mercers-clients-given-data-analytics-capability",
+        "title": "",
+        "company": "Mercers clients given data analytics capability",
+        "content": ""
+    },
+    {
+        "id": "qlik_142",
+        "url": "https://www.qlik.com/us/resource-library/clutha-district-council-provide-seamless-services",
+        "title": "",
+        "company": "Clutha district council provide seamless services",
+        "content": ""
+    },
+    {
+        "id": "qlik_143",
+        "url": "https://www.qlik.com/us/resource-library/novartis-democratized-data-drives-value",
+        "title": "",
+        "company": "Novartis democratized data drives value",
+        "content": ""
+    },
+    {
+        "id": "qlik_144",
+        "url": "https://www.qlik.com/us/resource-library/bitmarck-case-study",
+        "title": "",
+        "company": "Bitmarck case study",
+        "content": ""
+    },
+    {
+        "id": "qlik_145",
+        "url": "https://www.qlik.com/us/resource-library/how-data-driven-analytics-with-qlik-saved-bentley-systems-2-million-in-first-year",
+        "title": "",
+        "company": "How data driven analytics with qlik saved bentley systems 2 million in first year",
+        "content": ""
+    },
+    {
+        "id": "qlik_146",
+        "url": "https://www.qlik.com/us/resource-library/dpg-media-introduces-state-of-the-art-campaign-portal",
+        "title": "",
+        "company": "Dpg media introduces state of the art campaign portal",
+        "content": ""
+    },
+    {
+        "id": "qlik_147",
+        "url": "https://www.qlik.com/us/resource-library/ewals-cargo-care-accelerates-cloud-data-warehouse-productivity-by-400-percent",
+        "title": "",
+        "company": "Ewals cargo care accelerates cloud data warehouse productivity by 400 percent",
+        "content": ""
+    },
+    {
+        "id": "qlik_148",
+        "url": "https://www.qlik.com/us/resource-library/audi-team-hitotsuyama-stay-ahead-of-the-competition",
+        "title": "",
+        "company": "Audi team hitotsuyama stay ahead of the competition",
+        "content": ""
+    },
+    {
+        "id": "qlik_149",
+        "url": "https://www.qlik.com/us/resource-library/miller-insurance-qlik-replicate-case-study",
+        "title": "",
+        "company": "Miller insurance qlik replicate case study",
+        "content": ""
+    },
+    {
+        "id": "qlik_150",
+        "url": "https://www.qlik.com/us/resource-library/appalachian-regional-healthcare",
+        "title": "",
+        "company": "Appalachian regional healthcare",
+        "content": ""
+    },
+    {
+        "id": "qlik_151",
+        "url": "https://www.qlik.com/us/resource-library/skullcandy",
+        "title": "",
+        "company": "Skullcandy",
+        "content": ""
+    },
+    {
+        "id": "qlik_152",
+        "url": "https://www.qlik.com/us/resource-library/qlik-sense-delivers-20-20-vision",
+        "title": "",
+        "company": "Qlik sense delivers 20 20 vision",
+        "content": ""
+    },
+    {
+        "id": "qlik_153",
+        "url": "https://www.qlik.com/us/resource-library/honda-undergoes-a-digital-transformation",
+        "title": "",
+        "company": "Honda undergoes a digital transformation",
+        "content": ""
+    },
+    {
+        "id": "qlik_154",
+        "url": "https://www.qlik.com/us/resource-library/data-achieves-debt-resolution-success",
+        "title": "",
+        "company": "Data achieves debt resolution success",
+        "content": ""
+    },
+    {
+        "id": "qlik_155",
+        "url": "https://www.qlik.com/us/resource-library/usaa-replicating-cloud-data",
+        "title": "",
+        "company": "Usaa replicating cloud data",
+        "content": ""
+    },
+    {
+        "id": "qlik_156",
+        "url": "https://www.qlik.com/us/resource-library/brown-forman-reducing-development-and-testing-time-while-reducing-costs",
+        "title": "",
+        "company": "Brown forman reducing development and testing time while reducing costs",
+        "content": ""
+    },
+    {
+        "id": "qlik_157",
+        "url": "https://www.qlik.com/us/resource-library/lenovo-leverages-data-for-strategic-advantage",
+        "title": "",
+        "company": "Lenovo leverages data for strategic advantage",
+        "content": ""
+    },
+    {
+        "id": "qlik_158",
+        "url": "https://www.qlik.com/us/resource-library/zift-increases-competitiveness-with-application-automation",
+        "title": "",
+        "company": "Zift increases competitiveness with application automation",
+        "content": ""
+    },
+    {
+        "id": "qlik_159",
+        "url": "https://www.qlik.com/us/resource-library/cs-volvo-group-drives-data-insights-kpis",
+        "title": "",
+        "company": "Cs volvo group drives data insights kpis",
+        "content": ""
+    },
+    {
+        "id": "qlik_160",
+        "url": "https://www.qlik.com/us/resource-library/in-demand-case-study",
+        "title": "",
+        "company": "In demand case study",
+        "content": ""
+    },
+    {
+        "id": "qlik_161",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/intuit",
+        "title": "Intuit Case Study | Qlik",
+        "company": "Intuit",
+        "content": " The technology leader now provides access to real-time data across multiple applications through a modern web experience. The complexity of their data setup put a high cognitive load on employees. And because analytics were not automatically updated across various platforms, leaders got reports and gave presentations using information that wasn\u2019t always up to date.\u00a0 \u201cDuring certain performance reviews or operating meetings, PowerPoint serves its purpose, but when it came to the idea of uniting Intuit as a data-driven culture, the PowerPoint deck really couldn\u2019t facilitate that,\u201d says Aaron Growitz, Intuit Group Manager of Business Intelligence and Data Visualization.  Data from both Qlik Sense\u00ae and other third-party sources like AWS flow into the One Intuit Portal through Qlik Sense\u2019s API integrations. The APIs also create reusable components that can serve as embedded analytics. Intuit\u2019s end users then consume the data via a single page application on the React framework. The embedded analytics enabled by Qlik Sense\u2019s APIs\u00a0 are a game changer. Embedded analytics seamlessly integrate analytic content into other business products, websites and applications.\u00a0 \u201cIt\u2019s all about enabling simpler experiences through some of our extensions or navigation mashups,\u201d Growitz says. \u201cThe idea of just using that left-hand navigation and pulling in a bunch of information outside of BI tools into a web framework took off really well.\u201d\u00a0\u00a0 \u201cIt makes a massive difference for those that live in this dashboard.\u201d  Putting the time into making complex data analytics easy to consume pays dividends. Growitz notes that Intuit didn\u2019t have to provide user training for the portal. \u201cOnce people saw the ease and consistency of the UI and UX, it took off,\u201d he says. Intuit always valued data, but now it is a more data-driven company with a modern, accessible approach. Over the past two years, usage has grown 10x for the embedded analytics the team supports."
+    },
+    {
+        "id": "qlik_162",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/dominos",
+        "title": "Domino\u2019s Pizza Case Study | Qlik",
+        "company": "Dominos",
+        "content": " Emphasis on innovation helps Domino\u2019s achieve more than 50 percent of all global retail sales from digital channels. There are more than 15,000 stores in 85-plus markets, with customer data pouring in from every conceivable platform. The company wanted to integrate all that data \u2014 85,000 structured and unstructured data sources \u2014 to get a single view of its customers and global operations. Unfortunately, their IT architecture prevented it.\u00a0  \u201cWe didn\u2019t have a standard way to ingest data,\u201d says Dan Djuric, Vice President, Global Infrastructure and Enterprise Information Management.\u201cWe also had more than 11,000 business users, 35 data scientists, and multiple marketing agencies \u2014 and all of them wanted to build their own database.\u201d  Domino\u2019s selected Talend\u00ae Data Fabric. They also built a comprehensive data tracker which feeds Domino\u2019s Enterprise Management Framework and real-time data streaming. It\u2019s combined with third party visualization and analytics solutions.  With a modern data platform in place, Domino\u2019s now has a trusted, single source of truth that helps improve business performance \u2014 from logistics to financial forecasting \u2014 while enabling one-to-one buying experiences across multiple touchpoints. \u201cWe think of it as giving store managers a smart watch for their in-store operations,\u201d said Kripakar Krishnamurthy, Director, Enterprise Data Engineering, Platforms and Architecture at Domino\u2019s. \u201cWe want them to have reliable information about what\u2019s happening right now so they can maximize efficiency, deliver a superior customer experience, and boost their sales.\u201d \u201cWe\u2019ve become an e-commerce company that sells pizza. Talend has helped us make that digital transformation,\u201d exclaimed Djuric.\u00a0\u00a0 \u00a0With real-time data and analytics, store managers can quickly see daily orders, prep time, delivery vs. pick-up, and more. They can project demand and forecast staffing requirements. \u201cWe were already producing a lot of real-time information, and now put it to better use,\u201d Krishnamurthy noted. \u201cWe wanted our store managers to see what\u2019s ahead and make the right moves.\u201d  Vast data and multiple sources can be an untapped resource. But it can also tap other resources as you attempt to analyze or contextualize it. But a unified, agile, scalable data platform can capture, cleanse, standardize, enrich, store, and distribute data. It becomes an asset.\u00a0 Djuric observes, \u201cWe\u2019re an aggressively aspirational company, and store growth is very important. We needed to make sure we were on a platform that could scale, and Talend fulfills that requirement.\u201d"
+    },
+    {
+        "id": "qlik_163",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/integra-financial",
+        "title": "Integra Financial Case Study | Qlik",
+        "company": "Integra financial",
+        "content": " They\u2019ve generated remarkable improvements in the efficiency of acquiring and qualifying leads. By using the API and altering their qualification and acquisition process with just one of the four lead suppliers. By being more selective on which leads they buy, they are not only saving money by buying fewer leads, but they are also saving money by not paying a third party to vet low-quality leads. Just based on the costs of one supplier. From here, they will begin to change the process with their other three lead suppliers for additional savings. The small personal loan space is fast moving, fraught with risk, and extremely competitive. Leads are often acquired en masse. So an organization often has as little as 30 seconds to vet viable leads and decide whether or not to purchase that lead.\u00a0\u00a0 Conventional process makes it nearly impossible to input all the necessary information quickly enough time to make an informed decision on which leads to actually purchase. Qlik AutoML\u00ae is informed by records of which loans were funded. Automated machine learning recognizes patterns that lead to successful loan fundings. The resulting model helps qualify leads. Working together with the data science and customer service teams at Qlik\u00ae, Integra exposed this lead scoring model to an API and connected it to their Loan Management System (LMS). With this new connection, each time a lead now submits a form to the LMS, the API automatically queries the model in Qlik AutoML and returns the probability a given loan will convert. By being more selective on which leads they buy, they are not only saving money by buying fewer leads, but they are also saving money by not paying a third party to vet low-quality leads.\u00a0 Integra is also using data to predict which customers are likely to default on their first payment. This information gives them the ability to be proactive with customers, implement preventative measures before a customer defaults, and create a more positive lending experience overall. Integra took data that was already accessible, but hard to extract value. They unleashed Qlik AutoML and Qlik Cloud\u00ae to turn that vast amount of data into meaningful market and customer insight. Better still, it happens blazingly fast. Every enterprise has the data. Yours does. But making it meaningful takes tools and action. And the sooner you get started on it, the sooner that value will become realized."
+    },
+    {
+        "id": "qlik_164",
+        "url": "https://www.qlik.com/us/solutions/customers/customer-stories/urban-outfitters",
+        "title": "Urban Outfitters Case Study | Qlik",
+        "company": "Urban outfitters",
+        "content": " Retail leader uses real-time data to support in-the-moment decisions. Rapid real-time data access boosts store performance by giving staff the information they need when they need it. Store staff can make quick decisions, see current challenges, plan for the future, and appreciate the impact their work has on the wider picture. Access to an array of dashboards and reports updated with fresh data every two minutes enables quick, in-store decision-making. Gathering actionable data from more than 650 stores spread throughout the USA, Europe, and UK was a huge problem. Time zones, operating styles of three business brands, and different information systems created remarkable challenges. Covid-19\u00a0made it even worse, because of store closures and inconsistent pandemic strategies.\u00a0\u00a0 \u201cWe were dealing with many different systems and technologies, so we could not easily gather, explore, or learn from information,\u201d said Director of Workforce Management, Joanna Matthy. \u201cIt meant that reports had to be cobbled together which took a lot of administrative time.\u201d Urban Outfitters migrated to a Snowflake cloud fed by Qlik Data Integration. They could stream 50 GB of data per day from all those on-premises data sources.\u00a0 Qlik Data Analytics became the company standard for in-store reporting and data analysis.\u00a0\u00a0 \u00a0Working together, the two Qlik solutions created unprecedented access to critical data and enabled more informed action. Reports that took hours, now take minutes. Qlik Data Integration enables small packets of data to be constantly streamed to the cloud rather than a big-bang approach that takes hours. Previously, data could only be manipulated once the ETL (extract, transform, load) process had started, which meant hours of delay. Now, it takes fewer than five minutes for distribution centers, and at most 15 minutes for the order management system (OMS). The takeaway here is that you can get the most from your data, even if you\u2019re dealing with archaic systems, incompatible platforms, decentralized data stores, or any of the other countless hurdles to business insights and planning.\u00a0 Urban Outfitters said: \u201cQlik has provided a longer runway and a more sustainable way to operate with fewer inhibitors than we had before. Using it to obtain a holistic snapshot of a store\u2019s performance throughout the day is our ultimate aim.\u201d"
+    },
+    {
+        "id": "qlik_165",
+        "url": "https://www.qlik.com/us/resource-library/hunt-makes-data-visible-to-everyone",
+        "title": "",
+        "company": "Hunt makes data visible to everyone",
+        "content": ""
+    }
+]
